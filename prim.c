@@ -1,6 +1,6 @@
-#include<stdio.h>
+kk#include<stdio.h>
 void prims(int cost[10][10],int n)
-k
+
 {
 	int i,j,min,source,u,v;
 	int sum,k,t[10][2],p[10],s[10],d[10];
